@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BEECROWD-JAVA.iml" filepath="$PROJECT_DIR$/BEECROWD-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distancia-entre-dois-pontos/distancia-entre-dois-pontos.iml" filepath="$PROJECT_DIR$/distancia-entre-dois-pontos/distancia-entre-dois-pontos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/iniciante.iml" filepath="$PROJECT_DIR$/iniciante/iniciante.iml" />
+    </modules>
+  </component>
+</project>
